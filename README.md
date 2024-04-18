@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
      <div id="badges">
-  <a href="https://www.linkedin.com/in/azizikhoiri/](https://www.linkedin.com/in/alfan-bintang-80618a28b">
+  <a href="(https://www.linkedin.com/in/alfan-bintang-80618a28b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:alfanbintang28@gmail.com">
@@ -70,14 +70,13 @@ Thank you for visiting my profile! If you have any questions or would like to di
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AziziKhoiri99&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfnbntng&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AziziKhoiri99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfnbntng&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World 👋](https://dev.to/azizikhoiri99/hello-world-4jgl)
 <!-- BLOG-POST-LIST:END -->
