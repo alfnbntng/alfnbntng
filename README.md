@@ -18,7 +18,7 @@
     Hello There, I'm Alfan Bintang
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AziziKhoiri99&row=1&no-frame=true&margin-w=15&theme=discord" alt="AziziKhoiri99" /></a></p>
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AziziKhoiri99&row=1&no-frame=true&margin-w=15&theme=discord" alt="Bintang" /></a></p>
 </div>
 
 ---
